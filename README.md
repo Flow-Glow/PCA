@@ -1,4 +1,4 @@
-#Principal Component Analysis
+# Principal Component Analysis
 
 ## What is Principal Component Analysis?
 Principal Component Analysis, or PCA, is a dimensionality-reduction approach that is frequently used to decrease the dimensionality of big data sets by reducing a large collection of variables into a smaller set that retains the majority of the information in the large set. Obviously, reducing the number of variables in a data collection reduces accuracy, but the idea in dimensionality reduction is to trade a little accuracy for simplicity. Because smaller data sets are easier to study and display, and because machine learning algorithms can analyze data much more easily and quickly without having to deal with superfluous factors.
