@@ -20,9 +20,9 @@ Principal Component Analysis, or PCA, is a dimensionality-reduction approach tha
 - - - -
 ## PCA in action
 ### PCA using make_regression to generate data
-![picture alt](https://i.gyazo.com/a3bc98c04c02781413ddfce8ed3e6787.png)
+![picture alt](https://i.gyazo.com/368c215a0898df65d57900cd84f43312.png)
 ### PCA using make_blobs to generate data
-![picture alt](https://i.gyazo.com/40e5577fb2e1bbed4cada3dff1ea2e97.png)
+![picture alt](https://i.gyazo.com/782e3771225932ae11ac7bfb54a78949.png)
 
 ## Working out the PCA math/documentaion of PCA:
 [One Note PCA](https://1drv.ms/u/s!Aqk7Y-sliEtmfWp7imDP9v1ULRk?e=gq8viN)
