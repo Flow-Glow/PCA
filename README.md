@@ -16,7 +16,7 @@ Principal Component Analysis, or PCA, is a dimensionality-reduction approach tha
 3. Recast the data along the principal components axes
 
 ### Flow Chart
-<!-- ![picture alt](https://gyazo.com/2ccc1a24b8bc2fe51f6b19e9c780b834.png "Flow Chart") -->
+![picture alt](https://i.gyazo.com/1e0f05eabc42b8ed1f580d02ffeab039.png "Flow Chart")
 - - - -
 ## PCA in action
 ### PCA using make_regression to generate data
