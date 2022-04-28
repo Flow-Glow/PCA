@@ -25,4 +25,4 @@ Principal Component Analysis, or PCA, is a dimensionality-reduction approach tha
 ![picture alt](https://i.gyazo.com/782e3771225932ae11ac7bfb54a78949.png)
 
 ## Working out the PCA math/documentaion of PCA:
-[PCA worked out](https://1drv.ms/u/s!Aqk7Y-sliEtmfWp7imDP9v1ULRk?e=gq8viN)
+[PCA worked out by hand](https://1drv.ms/u/s!Aqk7Y-sliEtmfWp7imDP9v1ULRk?e=gq8viN)
