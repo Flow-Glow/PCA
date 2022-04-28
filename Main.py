@@ -27,10 +27,11 @@ def make_blobs_dataset(n=1000, cluster_std=1.5):
     :param cluster_std:
     :return:
     """
-    o_data, temp1, temp2 = make_blobs(n_samples=1000, centers=1, n_features=2, random_state=0,
-                                      return_centers=True, cluster_std=1.5)
+    o_data, temp1, temp2 = make_blobs(n_samples=n, centers=1, n_features=2, random_state=0,
+                                      return_centers=True, cluster_std=cluster_std)
     data = o_data.reshape(1000, 2)
     return data
+
 
 
 def compute_covariance_matrix(data: np.ndarray):
