@@ -13,7 +13,7 @@ Principal Component Analysis, or PCA, is a dimensionality-reduction approach tha
 ## How Principal Component Analysis work?
 1. Compute the covariance matrix to identify correlations
 2. Compute the eigenvectors and eigenvalues of the covariance matrix to identify the principal components
-3. Recast the data along the principal components axes
+3. Recast the data along the principal components axes(TO-DO)
 
 ### Flow Chart
 ![picture alt](https://i.gyazo.com/1e0f05eabc42b8ed1f580d02ffeab039.png "Flow Chart")
